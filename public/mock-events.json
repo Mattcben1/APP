@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "name": "UVA Fall Music Fest",
+      "source": "UVA Student Activities",
+      "summary": "An evening of student performances and live music on the Lawn.",
+      "url": "https://calendar.virginia.edu/event/fall-music-fest"
+    },
+    {
+      "name": "Charlottesville Art Walk",
+      "source": "Downtown Cville",
+      "summary": "Explore local galleries during the First Fridays event downtown.",
+      "url": "https://charlottesvillearts.org/first-fridays"
+    },
+    {
+      "name": "Cavalier Football Game",
+      "source": "UVA Athletics",
+      "summary": "UVA takes on Georgia Tech at Scott Stadium. Tickets available online.",
+      "url": "https://virginiasports.com/"
+    },
+    {
+      "name": "Student Startup Expo",
+      "source": "UVA iLab",
+      "summary": "A showcase of student-founded ventures and entrepreneurship projects.",
+      "url": "https://entrepreneurship.virginia.edu/"
+    }
+  ]
+}
