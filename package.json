@@ -2,7 +2,7 @@
   "name": "uva-events-aggregator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/uva-events-aggregator/",
+  "homepage": "https://Mattcben1.github.io/uva-events-aggregator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
