@@ -1,28 +1,46 @@
 {
   "events": [
     {
-      "name": "UVA Fall Music Fest",
-      "source": "UVA Student Activities",
-      "summary": "An evening of student performances and live music on the Lawn.",
-      "url": "https://calendar.virginia.edu/event/fall-music-fest"
+      "name": "UVA Homecoming Parade",
+      "source": "UVA Alumni Association",
+      "summary": "Celebrate Homecoming weekend with floats, bands, and community spirit along University Avenue.",
+      "url": "https://alumni.virginia.edu/homecoming",
+      "datetime": "2025-10-21T15:00:00"
     },
     {
       "name": "Charlottesville Art Walk",
       "source": "Downtown Cville",
-      "summary": "Explore local galleries during the First Fridays event downtown.",
-      "url": "https://charlottesvillearts.org/first-fridays"
+      "summary": "Explore local galleries and artists in this city-wide First Fridays event.",
+      "url": "https://charlottesvillearts.org/first-fridays",
+      "datetime": "2025-10-25T17:00:00"
     },
     {
-      "name": "Cavalier Football Game",
-      "source": "UVA Athletics",
-      "summary": "UVA takes on Georgia Tech at Scott Stadium. Tickets available online.",
-      "url": "https://virginiasports.com/"
+      "name": "HackUVA 2025",
+      "source": "UVA Computer Science Society",
+      "summary": "36-hour hackathon inviting students to innovate, code, and create real-world solutions.",
+      "url": "https://hackuva.io/",
+      "datetime": "2025-11-02T09:00:00"
     },
     {
       "name": "Student Startup Expo",
       "source": "UVA iLab",
-      "summary": "A showcase of student-founded ventures and entrepreneurship projects.",
-      "url": "https://entrepreneurship.virginia.edu/"
+      "summary": "Showcase of student-founded ventures and entrepreneurship projects at Darden School.",
+      "url": "https://entrepreneurship.virginia.edu/",
+      "datetime": "2025-11-05T14:00:00"
+    },
+    {
+      "name": "Cavalier Football Game vs Georgia Tech",
+      "source": "UVA Athletics",
+      "summary": "Join the crowd at Scott Stadium to cheer for the Hoos!",
+      "url": "https://virginiasports.com/",
+      "datetime": "2025-10-24T19:00:00"
+    },
+    {
+      "name": "Past Event Example",
+      "source": "UVA Archives",
+      "summary": "A look back at a historical event for filter demonstration.",
+      "url": "https://virginia.edu/",
+      "datetime": "2025-09-15T12:00:00"
     }
   ]
 }
